@@ -27,4 +27,4 @@ After building with Maven the server can be started wit
 
 ### See also 
 
- * [Project Generator](https://start.ktor.io Project Generator)
+ * [Project Generator](https://start.ktor.io)
